@@ -122,7 +122,7 @@ I'm looking for an opportunity where I can contribute to real-world software pro
   <a href="https://github.com/pradeepkumar-pyt">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/pradeep-kumar-58008637/">
+  <a href="https://www.linkedin.com/in/pradeep-kumar-58008637b/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>---
